@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cda4b56a-ff48-4998-add7-d817fa53a3cc" name="Default" comment="Reorganized the files">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML/Admin/navigation.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML/applicant/application-index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML/applicant/create-application.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML/applicant/create-department.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML/applicant/edit-application.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML/applicant/navigation.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML/applicant/save-confirmation.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML/applicant/submit-app.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML/applicant/view-application.html" afterPath="" />
+    <list default="true" id="cda4b56a-ff48-4998-add7-d817fa53a3cc" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -211,11 +202,18 @@
       <option name="project" value="LOCAL" />
       <updated>1490742946179</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Reorganized the files">
+      <created>1490898358158</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1490898358158</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3977000" />
+    <option name="totallyTimeSpent" value="3998000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-16" y="-16" width="3572" height="1956" extended-state="0" />
@@ -256,7 +254,8 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="Reorganized the files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Reorganized the files" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
