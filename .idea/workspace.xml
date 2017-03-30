@@ -1,0 +1,865 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cda4b56a-ff48-4998-add7-d817fa53a3cc" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/chart-master/site/assets/6charts.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/chart-master/site/assets/html.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/chart-master/site/assets/simple.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/plugins/about/dialogs/logo_ckeditor.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/plugins/fakeobjects/images/spacer.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/plugins/icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/plugins/image/images/noimage.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/plugins/link/images/anchor.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/plugins/magicline/images/icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/samples/assets/inlineall/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/samples/assets/sample.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/samples/plugins/htmlwriter/assets/outputforflash/outputforflash.fla" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/samples/plugins/htmlwriter/assets/outputforflash/outputforflash.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/skins/moono/icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/skins/moono/images/arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/skins/moono/images/close.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/skins/moono/images/mini.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/fullcalendar/demos/cupertino/images/ui-bg_diagonals-thick_90_eeeeee_40x40.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/fullcalendar/demos/cupertino/images/ui-bg_flat_15_cd0a0a_40x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/fullcalendar/demos/cupertino/images/ui-bg_glass_100_e4f1fb_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/fullcalendar/demos/cupertino/images/ui-bg_glass_50_3baae3_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/fullcalendar/demos/cupertino/images/ui-bg_glass_80_d7ebf9_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/fullcalendar/demos/cupertino/images/ui-bg_highlight-hard_100_f2f5f7_1x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/fullcalendar/demos/cupertino/images/ui-bg_highlight-hard_70_000000_1x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/fullcalendar/demos/cupertino/images/ui-bg_highlight-soft_100_deedf7_1x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/fullcalendar/demos/cupertino/images/ui-bg_highlight-soft_25_ffef8f_1x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/fullcalendar/demos/cupertino/images/ui-icons_2694e8_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/fullcalendar/demos/cupertino/images/ui-icons_2e83ff_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/fullcalendar/demos/cupertino/images/ui-icons_3d80b3_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/fullcalendar/demos/cupertino/images/ui-icons_72a7cf_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/fullcalendar/demos/cupertino/images/ui-icons_ffffff_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/jquery-easy-pie-chart/img/easy-pie-chart.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/jquery-file-upload/img/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/jquery-file-upload/img/progressbar.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/jquery-file-upload/server/gae-go/static/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/jquery-file-upload/server/gae-python/static/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/jquery-ui/images/animated-overlay.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/jquery-ui/images/ui-bg_diagonals-thick_18_b81900_40x40.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/jquery-ui/images/ui-bg_diagonals-thick_20_666666_40x40.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/jquery-ui/images/ui-bg_flat_0_aaaaaa_40x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/jquery-ui/images/ui-bg_flat_10_000000_40x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/jquery-ui/images/ui-bg_flat_75_ffffff_40x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/jquery-ui/images/ui-bg_glass_100_f6f6f6_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/jquery-ui/images/ui-bg_glass_100_fdf5ce_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/jquery-ui/images/ui-bg_glass_55_fbf9ee_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/jquery-ui/images/ui-bg_glass_65_ffffff_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/jquery-ui/images/ui-bg_glass_75_dadada_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/jquery-ui/images/ui-bg_glass_75_e6e6e6_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/jquery-ui/images/ui-bg_glass_95_fef1ec_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/jquery-ui/images/ui-bg_gloss-wave_35_f6a828_500x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/jquery-ui/images/ui-bg_highlight-soft_100_eeeeee_1x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/jquery-ui/images/ui-bg_highlight-soft_75_cccccc_1x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/jquery-ui/images/ui-bg_highlight-soft_75_ffe45c_1x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/jquery-ui/images/ui-icons_222222_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/jquery-ui/images/ui-icons_228ef1_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/jquery-ui/images/ui-icons_2e83ff_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/jquery-ui/images/ui-icons_454545_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/jquery-ui/images/ui-icons_888888_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/jquery-ui/images/ui-icons_cd0a0a_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/jquery-ui/images/ui-icons_ef8c08_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/jquery-ui/images/ui-icons_ffd27a_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/jquery-ui/images/ui-icons_ffffff_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/fonts/ElegantIcons.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/fonts/ElegantIcons.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/fonts/ElegantIcons.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/img/Germany.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/img/India.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/img/Russia.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/img/Spain.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/img/arrow-up.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/img/avatar-mini.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/img/avatar-mini2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/img/avatar-mini3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/img/avatar-mini4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/img/avatar1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/img/avatar1_small.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/img/bg-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/img/chart-texture.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/img/chat-avatar.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/img/chat-avatar2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/img/customSelect-arrow.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/img/geekslabs.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/img/icons/line-icon-c.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/img/icons/line-icon-hover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/img/icons/line-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/img/icons/search-line-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/img/icons/social.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/img/icons/weather-hover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/img/icons/weather.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/img/left-arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/img/logo-big.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/img/mail-avatar.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/img/profile-avatar.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/img/profile-widget-avatar.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/img/right-arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/img/sample-img-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/img/sample-img-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/img/sample-img-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/img/search-icon.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/img/user.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/img/user22.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/applicant.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/blue ridge.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/head-shot.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/head-shot3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/head-shot4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/head-shot6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/sam winchester.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/sam-winchester--avatar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/Wildlife.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Admin/navigation.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/404.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/chart-master/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/chart-master/Chart.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/chart-master/Chart.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/chart-master/LICENSE.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/chart-master/component.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/chart-master/docs/Chart.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/chart-master/docs/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/chart-master/docs/prettify.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/chart-master/docs/prettify.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/chart-master/docs/prettify.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/chart-master/docs/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/chart-master/docs/styles.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/chart-master/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/chart-master/samples/bar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/chart-master/samples/doughnut.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/chart-master/samples/line.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/chart-master/samples/pie.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/chart-master/samples/polarArea.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/chart-master/samples/radar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/chart-master/samples/sixup.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/chart-master/site/assets/Chart.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/chart-master/site/assets/effects.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/chart-master/site/assets/excanvas.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/chart-master/site/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/chart-master/site/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/CHANGES.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/LICENSE.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/build-config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/ckeditor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/contents.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/lang/af.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/lang/ar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/lang/bg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/lang/bn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/lang/bs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/lang/ca.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/lang/cs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/lang/cy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/lang/da.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/lang/de.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/lang/el.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/lang/en-au.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/lang/en-ca.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/lang/en-gb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/lang/en.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/lang/eo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/lang/es.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/lang/et.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/lang/eu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/lang/fa.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/lang/fi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/lang/fo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/lang/fr-ca.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/lang/fr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/lang/gl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/lang/gu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/lang/he.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/lang/hi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/lang/hr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/lang/hu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/lang/is.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/lang/it.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/lang/ja.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/lang/ka.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/lang/km.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/lang/ko.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/lang/ku.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/lang/lt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/lang/lv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/lang/mk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/lang/mn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/lang/ms.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/lang/nb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/lang/nl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/lang/no.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/lang/pl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/lang/pt-br.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/lang/pt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/lang/ro.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/lang/ru.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/lang/sk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/lang/sl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/lang/sr-latn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/lang/sr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/lang/sv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/lang/th.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/lang/tr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/lang/ug.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/lang/uk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/lang/vi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/lang/zh-cn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/lang/zh.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/plugins/a11yhelp/dialogs/a11yhelp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/_translationstatus.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/ar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/bg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/ca.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/cs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/cy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/da.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/de.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/el.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/en.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/eo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/es.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/et.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/fa.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/fi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/fr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/gu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/he.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/hi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/hr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/hu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/it.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/ja.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/ku.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/lt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/lv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/mk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/mn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/nb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/nl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/no.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/pl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/pt-br.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/pt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/ro.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/ru.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/sk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/sl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/sv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/tr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/ug.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/uk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/vi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/plugins/a11yhelp/dialogs/lang/zh-cn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/plugins/about/dialogs/about.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/plugins/clipboard/dialogs/paste.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/plugins/dialog/dialogDefinition.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/plugins/image/dialogs/image.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/plugins/link/dialogs/anchor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/plugins/link/dialogs/link.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/plugins/pastefromword/filter/default.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/plugins/scayt/LICENSE.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/plugins/scayt/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/plugins/scayt/dialogs/options.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/plugins/scayt/dialogs/toolbar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/plugins/specialchar/dialogs/lang/_translationstatus.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/plugins/specialchar/dialogs/lang/ca.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/plugins/specialchar/dialogs/lang/cs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/plugins/specialchar/dialogs/lang/cy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/plugins/specialchar/dialogs/lang/de.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/plugins/specialchar/dialogs/lang/el.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/plugins/specialchar/dialogs/lang/en.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/plugins/specialchar/dialogs/lang/eo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/plugins/specialchar/dialogs/lang/et.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/plugins/specialchar/dialogs/lang/fa.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/plugins/specialchar/dialogs/lang/fi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/plugins/specialchar/dialogs/lang/fr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/plugins/specialchar/dialogs/lang/he.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/plugins/specialchar/dialogs/lang/hr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/plugins/specialchar/dialogs/lang/it.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/plugins/specialchar/dialogs/lang/ku.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/plugins/specialchar/dialogs/lang/lv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/plugins/specialchar/dialogs/lang/nb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/plugins/specialchar/dialogs/lang/nl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/plugins/specialchar/dialogs/lang/no.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/plugins/specialchar/dialogs/lang/pt-br.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/plugins/specialchar/dialogs/lang/sk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/plugins/specialchar/dialogs/lang/sv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/plugins/specialchar/dialogs/lang/tr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/plugins/specialchar/dialogs/lang/ug.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/plugins/specialchar/dialogs/lang/zh-cn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/plugins/specialchar/dialogs/specialchar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/plugins/table/dialogs/table.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/plugins/tabletools/dialogs/tableCell.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/plugins/wsc/LICENSE.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/plugins/wsc/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/plugins/wsc/dialogs/ciframe.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/plugins/wsc/dialogs/tmpFrameset.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/plugins/wsc/dialogs/wsc.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/plugins/wsc/dialogs/wsc.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/samples/ajax.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/samples/api.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/samples/appendto.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/samples/assets/outputxhtml/outputxhtml.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/samples/assets/posteddata.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/samples/assets/sample.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/samples/assets/uilanguages/languages.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/samples/divreplace.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/samples/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/samples/inlineall.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/samples/inlinebycode.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/samples/plugins/dialog/assets/my_dialog.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/samples/plugins/dialog/dialog.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/samples/plugins/enterkey/enterkey.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/samples/plugins/htmlwriter/assets/outputforflash/swfobject.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/samples/plugins/htmlwriter/outputforflash.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/samples/plugins/htmlwriter/outputhtml.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/samples/plugins/magicline/magicline.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/samples/plugins/toolbar/toolbar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/samples/plugins/wysiwygarea/fullpage.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/samples/readonly.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/samples/replacebyclass.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/samples/replacebycode.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/samples/sample.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/samples/sample.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/samples/sample_posteddata.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/samples/tabindex.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/samples/uicolor.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/samples/uilanguages.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/samples/xhtmlstyle.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/skins/moono/dialog.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/skins/moono/dialog_ie.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/skins/moono/dialog_ie7.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/skins/moono/dialog_ie8.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/skins/moono/dialog_iequirks.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/skins/moono/dialog_opera.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/skins/moono/editor.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/skins/moono/editor_gecko.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/skins/moono/editor_ie.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/skins/moono/editor_ie7.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/skins/moono/editor_ie8.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/skins/moono/editor_iequirks.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/skins/moono/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/ckeditor/styles.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/fullcalendar/GPL-LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/fullcalendar/MIT-LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/fullcalendar/changelog.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/fullcalendar/demos/agenda-views.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/fullcalendar/demos/basic-views.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/fullcalendar/demos/cupertino/theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/fullcalendar/demos/default.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/fullcalendar/demos/external-dragging.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/fullcalendar/demos/gcal.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/fullcalendar/demos/json-events.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/fullcalendar/demos/json.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/fullcalendar/demos/selectable.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/fullcalendar/demos/theme.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/fullcalendar/fullcalendar/bootstrap-fullcalendar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/fullcalendar/fullcalendar/fullcalendar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/fullcalendar/fullcalendar/fullcalendar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/fullcalendar/fullcalendar/fullcalendar.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/fullcalendar/fullcalendar/fullcalendar.print.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/fullcalendar/fullcalendar/gcal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/fullcalendar/jquery/jquery-1.8.1.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/fullcalendar/jquery/jquery-ui-1.8.23.custom.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/jquery-easy-pie-chart/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/jquery-easy-pie-chart/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/jquery-easy-pie-chart/examples/excanvas.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/jquery-easy-pie-chart/examples/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/jquery-easy-pie-chart/examples/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/jquery-easy-pie-chart/jquery.easy-pie-chart.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/jquery-easy-pie-chart/jquery.easy-pie-chart.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/jquery-easy-pie-chart/jquery.easy-pie-chart.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/jquery-file-upload/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/jquery-file-upload/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/jquery-file-upload/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/jquery-file-upload/blueimp-file-upload.jquery.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/jquery-file-upload/cors/postmessage.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/jquery-file-upload/cors/result.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/jquery-file-upload/css/jquery.fileupload-ui-noscript.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/jquery-file-upload/css/jquery.fileupload-ui.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/jquery-file-upload/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/jquery-file-upload/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/jquery-file-upload/js/cors/jquery.postmessage-transport.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/jquery-file-upload/js/cors/jquery.xdr-transport.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/jquery-file-upload/js/jquery.fileupload-fp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/jquery-file-upload/js/jquery.fileupload-ui.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/jquery-file-upload/js/jquery.fileupload.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/jquery-file-upload/js/jquery.iframe-transport.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/jquery-file-upload/js/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/jquery-file-upload/js/vendor/canvas-to-blob.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/jquery-file-upload/js/vendor/jquery.ui.widget.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/jquery-file-upload/js/vendor/load-image.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/jquery-file-upload/js/vendor/tmpl.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/jquery-file-upload/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/jquery-file-upload/server/gae-go/app.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/jquery-file-upload/server/gae-go/app/main.go" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/jquery-file-upload/server/gae-go/static/robots.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/jquery-file-upload/server/gae-python/app.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/jquery-file-upload/server/gae-python/main.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/jquery-file-upload/server/gae-python/static/robots.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/jquery-file-upload/server/node/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/jquery-file-upload/server/node/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/jquery-file-upload/server/node/public/files/thumbnail/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/jquery-file-upload/server/node/server.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/jquery-file-upload/server/node/tmp/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/jquery-file-upload/server/php/UploadHandler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/jquery-file-upload/server/php/files/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/jquery-file-upload/server/php/files/gr.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/jquery-file-upload/server/php/files/style-responsive.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/jquery-file-upload/server/php/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/jquery-file-upload/test/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/jquery-file-upload/test/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/jquery-knob/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/jquery-knob/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/jquery-knob/js/jquery.knob.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/jquery-ui/jquery-ui-1.10.1.custom.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/jquery-ui/jquery-ui-1.10.1.custom.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/jquery-ui/jquery-ui-1.10.1.custom.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/jquery-ui/jquery-ui-1.10.2.custom.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/jquery-ui/jquery-ui-1.9.2.custom.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/morris.js-0.4.3/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/morris.js-0.4.3/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/morris.js-0.4.3/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/morris.js-0.4.3/component.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/morris.js-0.4.3/examples/_template.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/morris.js-0.4.3/examples/area-as-line.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/morris.js-0.4.3/examples/area.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/morris.js-0.4.3/examples/bar-colors.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/morris.js-0.4.3/examples/bar-no-axes.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/morris.js-0.4.3/examples/bar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/morris.js-0.4.3/examples/days.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/morris.js-0.4.3/examples/decimal-custom-hover.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/morris.js-0.4.3/examples/diagonal-xlabels-bar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/morris.js-0.4.3/examples/diagonal-xlabels.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/morris.js-0.4.3/examples/donut-colors.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/morris.js-0.4.3/examples/donut-formatter.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/morris.js-0.4.3/examples/donut.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/morris.js-0.4.3/examples/dst.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/morris.js-0.4.3/examples/events.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/morris.js-0.4.3/examples/goals.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/morris.js-0.4.3/examples/lib/example.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/morris.js-0.4.3/examples/lib/example.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/morris.js-0.4.3/examples/lib/prettify.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/morris.js-0.4.3/examples/lib/prettify.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/morris.js-0.4.3/examples/months-no-smooth.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/morris.js-0.4.3/examples/negative.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/morris.js-0.4.3/examples/no-grid.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/morris.js-0.4.3/examples/non-continuous.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/morris.js-0.4.3/examples/non-date.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/morris.js-0.4.3/examples/quarters.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/morris.js-0.4.3/examples/stacked_bars.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/morris.js-0.4.3/examples/timestamps.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/morris.js-0.4.3/examples/updating.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/morris.js-0.4.3/examples/weeks.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/morris.js-0.4.3/examples/years.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/morris.js-0.4.3/grunt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/morris.js-0.4.3/less/morris.core.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/morris.js-0.4.3/less/morris.core.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/morris.js-0.4.3/lib/morris.area.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/morris.js-0.4.3/lib/morris.bar.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/morris.js-0.4.3/lib/morris.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/morris.js-0.4.3/lib/morris.donut.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/morris.js-0.4.3/lib/morris.grid.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/morris.js-0.4.3/lib/morris.hover.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/morris.js-0.4.3/lib/morris.line.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/morris.js-0.4.3/morris.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/morris.js-0.4.3/morris.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/morris.js-0.4.3/morris.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/morris.js-0.4.3/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/morris.js-0.4.3/raphael-min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/morris.js-0.4.3/spec/lib/area/area_spec.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/morris.js-0.4.3/spec/lib/bar/bar_spec.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/morris.js-0.4.3/spec/lib/bar/colours.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/morris.js-0.4.3/spec/lib/commas_spec.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/morris.js-0.4.3/spec/lib/donut/donut_spec.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/morris.js-0.4.3/spec/lib/grid/auto_grid_lines_spec.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/morris.js-0.4.3/spec/lib/grid/set_data_spec.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/morris.js-0.4.3/spec/lib/grid/y_label_format_spec.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/morris.js-0.4.3/spec/lib/hover_spec.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/morris.js-0.4.3/spec/lib/label_series_spec.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/morris.js-0.4.3/spec/lib/line/line_spec.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/morris.js-0.4.3/spec/lib/pad_spec.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/morris.js-0.4.3/spec/lib/parse_time_spec.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/morris.js-0.4.3/spec/specs.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/morris.js-0.4.3/spec/support/placeholder.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/morris.js-0.4.3/spec/vendor/chai-1.3.0.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/morris.js-0.4.3/spec/vendor/chai-jquery-1.1.0.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/morris.js-0.4.3/spec/vendor/jquery-1.8.2.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/morris.js-0.4.3/spec/vendor/mocha-1.6.0.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/morris.js-0.4.3/spec/vendor/mocha-1.6.0.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/morris.js-0.4.3/spec/vendor/raphael-2.1.0.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/morris.js-0.4.3/spec/vendor/sinon-1.5.0.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/assets/morris.js-0.4.3/spec/vendor/sinon-chai-2.1.2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/basic_table.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/blank.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/buttons.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/chart-chartjs.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/css/bootstrap-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/css/elegant-icons-style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/css/font-awesome.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/css/fullcalendar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/css/jquery-jvectormap-1.2.2.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/css/jquery-ui-1.10.4.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/css/line-icons.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/css/owl.carousel.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/css/style-responsive.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/css/widgets.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/css/xcharts.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/fonts/ElegantIcons.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/form_component.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/form_validation.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/general.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/grids.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/js/additional-methods.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/js/bootstrap-switch.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/js/bootstrap-wysiwyg-custom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/js/bootstrap-wysiwyg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/js/calendar-custom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/js/chartjs-custom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/js/charts-flot.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/js/charts-other.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/js/charts-xcharts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/js/charts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/js/dynamic-table.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/js/easy-pie-chart.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/js/excanvas.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/js/form-component.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/js/form-validation-script.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/js/fullcalendar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/js/fullcalendar.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/js/ga.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/js/gdp-data.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/js/gritter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/js/html5shiv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/js/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/js/jquery-1.8.3.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/js/jquery-jvectormap-1.2.2.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/js/jquery-jvectormap-world-mill-en.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/js/jquery-ui-1.10.4.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/js/jquery-ui-1.9.2.custom.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/js/jquery.autosize.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/js/jquery.customSelect.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/js/jquery.flot.pie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/js/jquery.hotkeys.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/js/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/js/jquery.localscroll.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/js/jquery.nicescroll.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/js/jquery.placeholder.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/js/jquery.rateit.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/js/jquery.scrollTo.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/js/jquery.slimscroll.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/js/jquery.smartWizard.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/js/jquery.sparkline-11.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/js/jquery.sparkline.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/js/jquery.stepy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/js/jquery.tagsinput.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/js/jquery.validate.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/js/lte-ie7.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/js/morris-script.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/js/morris.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/js/owl.carousel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/js/scripts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/js/sliders.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/js/sparkline-chart.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/js/sparklines.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/js/xcharts.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/login.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/profile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/readme.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NiceAdmin/widgets.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Old pages/custom.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Old pages/edit-timesheet.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Old pages/personnel.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/account-confirmation.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/add-time.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/applicant/application-index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/applicant/create-application.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/applicant/create-department.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/applicant/edit-application.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/applicant/navigation.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/applicant/save-confirmation.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/applicant/submit-app.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/applicant/view-application.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/change-password.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clock-confirmation.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clock-in.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clock-out.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/confirmation-password.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/confirmation-timesheet.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/create-account.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/custom-style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/debug.log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/edit-profile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/edit-timesheet.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/full-profile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/navigation.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/profile-confirmation.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/profile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public-profile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/search-personnel.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/view-timesheet.html" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="clock-in.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/clock-in.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="825">
+              <caret line="25" column="25" lean-forward="false" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-16" />
+    <option name="y" value="-16" />
+    <option name="width" value="3588" />
+    <option name="height" value="1956" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Wildlife" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Wildlife" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="vcs.patch.path" value="C:/WINDOWS/system32/https:/github.com/WildLifeSupporters" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="PHPUnit.Wildlife">
+    <configuration default="false" name="Wildlife" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner directory="$PROJECT_DIR$" />
+      <method />
+    </configuration>
+    <configuration default="true" type="CodeceptionConfigurationType" factoryName="Codeception">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="PHPUnit.Wildlife" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="PHPUnit.Wildlife" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cda4b56a-ff48-4998-add7-d817fa53a3cc" name="Default" comment="" />
+      <created>1490742260536</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1490742260536</updated>
+      <workItem from="1490742262086" duration="1364000" />
+      <workItem from="1490839548849" duration="617000" />
+      <workItem from="1490888155214" duration="213000" />
+    </task>
+    <task id="LOCAL-00001">
+      <created>1490742946179</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1490742946179</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2194000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-16" y="-16" width="3588" height="1956" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22300337" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/clock-in.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="825">
+          <caret line="25" column="25" lean-forward="false" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
